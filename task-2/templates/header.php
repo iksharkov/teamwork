@@ -25,7 +25,7 @@
 <body>
     <div class="wrapper clearfix" role="main">
      <div class="logo">
-         <h1>Gridzilla.</h1>
+         <h1>Gridzilla<b>.</b></h1>
      <div>
      <div class="search">
         <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
