@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/styles1.css">
+    <link rel="stylesheet" href="css/styles2.css">
     <?php if($page_title == 'Contacts') { ?>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCXSvNhrGGECmJMZKs3Ewbz32jVRvLTTq4&language=en"></script>
     <?php } ?>
@@ -30,10 +31,8 @@
         <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
      </div>
      <div class="menu">
-         <div>
-             <button>home</button>
-             <button>about</button>
-             <button>blog</button>
-             <button>contact</button>
-         </div>
+         <button>home</button>
+         <button>about</button>
+         <button>blog</button>
+         <button>contact</button>
      </div>
