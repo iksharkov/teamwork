@@ -1,0 +1,8 @@
+.first-line {
+    float: left;
+}
+.search {
+    float: right;
+    margin-top: -50px;
+    color: #ececec;
+}
