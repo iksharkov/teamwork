@@ -1,6 +1,16 @@
 .Social-Media {
     float: left;
     margin: 25px 5px 25px 0;
+}
+
+footer {
+    margin: 25px auto;
     border-top: 1px solid #ececec;
 }
 
+.right-position {
+    float: right;
+    margin: 25px 0;
+    font-size: 11px;
+    line-height: 10px;
+}
