@@ -31,10 +31,8 @@
         <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
      </div>
      <div class="menu">
-         <button>home</button>
-         <button>about</button>
-         <button>blog</button>
-         <button>contact</button>
+         <button>HOME</button>
+         <button>ABOUT</button>
+         <button>BLOG</button>
+         <button>CONTACT</button>
      </div>
-
-     asdasdasd

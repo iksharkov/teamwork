@@ -7,6 +7,16 @@
     color: #ececec;
 }
 .menu button {
-    background-color: white;
+    padding: 0px 23px 0px 0px;
+    margin: 17px 23px 0px 0px;
     border: 0px;
-}l
+    background-color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.menu button {
+    border-right: 1px solid #ececec;
+}
+.menu {
+    border-top: 1px solid #ececec;
+}
