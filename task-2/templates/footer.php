@@ -1,7 +1,10 @@
         <footer class="clearfix">
-            <ul>
-                <li></li>
-            </ul>
+            <div class="Social-Media">
+                <a href="https://twitter.com/" class="twitter" target="_blank"><img src="icons/twitter.png" alt="twitter"></a>
+                <a href=""></a>
+                <a href=""></a>
+                <a href=""></a>
+            </div>
         </footer>
     </div><!-- End of wrapper -->
     <script src="js/libs/jquery-1.8.3.min.js"></script>
