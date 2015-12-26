@@ -1,4 +1,7 @@
         <footer class="clearfix">
+            <ul>
+                <li></li>
+            </ul>
         </footer>
     </div><!-- End of wrapper -->
     <script src="js/libs/jquery-1.8.3.min.js"></script>
