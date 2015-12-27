@@ -1,11 +1,11 @@
-.Social-Media {
-    float: left;
-    margin: 25px 5px 25px 0;
-}
-
 footer {
     margin: 25px auto;
     border-top: 1px solid #ececec;
+}
+
+.Social-Media {
+    float: left;
+    margin: 25px 5px 25px 0;
 }
 
 .right-position {
