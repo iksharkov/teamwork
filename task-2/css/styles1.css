@@ -12,7 +12,8 @@
 .search-input {
     float: right;
     margin-top: -50px;
-    color: #ececec;
+    color: black;
+    background: url(images/icon-search-128.png);
 }
 a {
   color: #000000;

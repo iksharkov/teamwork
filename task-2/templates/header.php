@@ -27,7 +27,7 @@
      <div class="logo ::after">
          <h1>Gridzilla</h1>
      </div>
-     <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
+     <input class="search-input" type="search" name="q" placeholder="Enter your search...">
      <div class="menu">
          <ul><a href="index.php">HOME</a></ul>
          <ul><a href="about.php">ABOUT</a></ul>
