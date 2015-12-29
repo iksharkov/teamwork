@@ -24,15 +24,13 @@
 </head>
 <body>
     <div class="wrapper clearfix" role="main">
-     <div class="logo">
-         <h1>Gridzilla<b>.</b></h1>
-     <div>
-     <div class="search">
-        <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
+     <div class="logo ::after">
+         <h1>Gridzilla</h1>
      </div>
+     <input class="search-input" type="search" id="home-q" name="q" placeholder="Enter your search...">
      <div class="menu">
-         <button>HOME</button>
-         <button type="button"><a href="about.php">ABOUT</a></button>
-         <button>BLOG</button>
-         <button type="button"><a href="contact.php">CONTACT</a></button>
+         <ul><a href="index.php">HOME</a></ul>
+         <ul><a href="about.php">ABOUT</a></ul>
+         <ul><a href="blog.php">BLOG</a></ul>
+         <ul><a href="contacts.php">CONTACT</a></ul>
      </div>

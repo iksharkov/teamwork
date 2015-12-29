@@ -30,45 +30,49 @@
     epe odit autem, sint ipsum quos provident nemo iusto, ipsa amet faci
     lis quam, quibusdam placeat deleniti, adipisci quas tempora consequatur quae.</p>
 </div>
-<div class="para-1">
-    <p> <b>D</b>ipsum dolor sit amet, consectetur adipisicing elit. Explr adipisicing elit. Voluptate voluptates
+<div class="para-1 p::first-letter">
+    <p>D ipsum dolor sit amet, consectetur adipisicing elit. Explr adipisicing elit. Voluptate voluptates
     quas est corporis deserunt inventore, cupiditate quod. Debitis unde maiores eos animi, dolore eligendi solut
     a dolor, veritatis nisi vero excepturi.possimus sunt est magni neque porrdus temporibus eveniet tempora rem
     reiciendis fuga aut eius ea vel,cupiditate quod. Debitis unde maiores eos animi, dolore eligendi solut
     a dolor, veritatis nisi vero excepturi.possimus sunt est magni neque porrdu</p>
 </div>
-<div class="para-2">
-    <p><b>"</b>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero laboriosam sit ex. Volupta
+<div class="para-2" >
+<blockqoute> <span>"</span> " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero laboriosam sit ex. Volupta
     tes facilis reiciendis, dolorum, vel quisquam saepe tenetur. Aspernatur impedit saepe eum soluta distinctio,
     iquam culpa?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit distinctio magnam minus vitae
-    fugit rem! Mollitia, ad sint, nulla cumque illo esse repellendus at facere.</p>
+    fugit rem! Mollitia, ad sint, nulla cumque illo esse repellendus at facere.</blockquote>
 </div>
 <div class="para-3">
-    <div class="firts-colum">
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum debitis consequatur omnis dicta ut,
-     eius assumenda possimus quia! Dolorem quos maiores, natus illo. Placeat modi vero dolores, possimus
-      doloribus! Itaque.</p>
-    </div>
-    <div class="second-colum">
-     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit quos, corporis! Expedita at, fugiat maies
-      quibusdam beatae dolore quia tempore, fuga modi itaque numquam, harum similique id saepe culpa cumque.</p>
-    </div>
+ <div class="colum-one">
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Magnam quod, soluta consequatur fugit quae. Adipisci veritatis
+      rnatur natus.</p>
+ </div>
+ <div class="colum-two">
+     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      provident. Accusamus sequi dolorem ea, explicabo optio,
+       in, autem voluptatem impedit libero magni laborum!</p>
+ </div>
 </div>
 <div class="para-4">
     <div class="colum-1">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At
-           sint minus, iusto ipsum dolore neque unde veritatis, eveniet
-           temporibus magni! ui voluptate quos et!</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit
+        . Quisquam ducimus odio dolore neque officia debitis natus,
+        dolorum ab praesentium. Autem vitae nulla debitis, saepe
+        libero pariatur accusantium inventore natus ipsam?</p>
     </div>
     <div class="colum-1">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elitquidem
-           , libero amet et dolor eius sint ad consequuntur adipisci. Fu
-           giat voluptatem distinctio labore nulla aut ducimus voluptaturi.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+         Laboriosam asperiores doloremque perspiciatis. Totam ipsam
+          molestiae consequuntur fuga ut ullam in minus autem natus,
+           non alias aut incidunt quod deserunt? Blanditiis.</p>
     </div>
-    <div class="colum-2">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-           elit. Nulla labore deserunt ut aliquid enim cupidita
-           facere esse error dolor, neque atque blanditiis dolore!</p>
+    <div class="colum-1">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Ipsam quisquam, nulla repellendus sit. Sequi, non obcaecati
+        eum dolorem necessitatibus. Perspiciatis nobis error,
+        laudantium doloremque eaque praesentiume quam.</p>
     </div>
 </div>
 <div class="buttons">
