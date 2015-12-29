@@ -32,7 +32,7 @@
      </div>
      <div class="menu">
          <button>HOME</button>
-         <button>ABOUT</button>
+         <button type="button"><a href="about.php">ABOUT</a></button>
          <button>BLOG</button>
-         <button>CONTACT</button>
+         <button type="button"><a href="contact.php">CONTACT</a></button>
      </div>
