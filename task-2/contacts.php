@@ -20,4 +20,8 @@
   </div>
     <textarea name="textarea" rows="10" cols="50">Message</textarea>
 </div>
+<div class="submit">
+  <img src="images/submit arrow.jpg" alt="submit arrow">
+  <button>submit</button>
+</div>
 <?php include('templates/footer.php') ?>

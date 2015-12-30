@@ -27,7 +27,10 @@
      <div class="logo ::after">
          <h1>Gridzilla</h1>
      </div>
-     <input class="search-input" type="search" name="q" placeholder="Enter your search...">
+     <div class="search-bar">
+     <input type="text" class="sfield" name="searchterm" maxlength="30" value="Enter your search ...">
+     <input type="image" class="searchbutton" name="search" src="images/icon-search-128.png" alt="Search">
+     </div>
      <div class="menu">
          <ul><a href="index.php">HOME</a></ul>
          <ul><a href="about.php">ABOUT</a></ul>

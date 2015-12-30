@@ -9,11 +9,35 @@
   content: ".";
   color: #f26060;
 }
-.search-input {
-    float: right;
-    margin-top: -50px;
-    color: black;
-    background: url(images/icon-search-128.png);
+.search-bar {
+position:relative;
+top: -60px;
+float: right;
+width:201px;
+height: 29px;
+background-color:#fff;
+border:1px solid #ececec;
+}
+.search-bar .searchbutton {
+position:absolute;
+width: 13px;
+height: 12px;
+color: #ececec;
+top:23%;
+right:5px;
+}
+.sfield {
+float: left;
+/*margin: 5px 0 0 8px;*/
+font: 8pt;
+color: #ececec;
+width:201px;
+height: 29px;
+line-height: 18px;
+padding: 0;
+background: transparent;
+border: 0;
+max-width: 201px
 }
 a {
   color: #000000;
@@ -111,7 +135,7 @@ a {
     height: 60px;
     margin: 0px 0px 25px 0px;
     font-size: 12px;
-    font-family: HelveticaNeue Regular;
+    font-family: HelveticaNeue Medium;
 }
 .colum-one {
     float: left;
@@ -128,7 +152,7 @@ a {
     height: 80px;
     margin: 0px 0px 25px 0px;
     font-size: 12px;
-    font-family: HelveticaNeue Regular;
+    font-family: HelveticaNeue Medium;
 }
 .colum-1 {
     float: left;
@@ -284,4 +308,14 @@ textarea {
     color: #c6c6c6;
     font-size: 12px;
     font-family: HelveticaNeue Medium;
+}
+.submit  button {
+    width: 50px;
+    /* height: 30px; */
+    margin: 0px 20px 0px 0px;
+    background-color: white;
+    border: 0px;
+    color: #000;
+    font-size: 18px;
+    font-family: HelveticaNeue;
 }
