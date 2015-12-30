@@ -319,3 +319,25 @@ textarea {
     font-size: 18px;
     font-family: HelveticaNeue;
 }
+.slider {
+    display: inline-block;
+    width: 940px;
+    height: 501px;
+    margin: 35px 0px 50px 0px;
+}
+.first-row {
+    display: inline-block;
+}
+.second-row {
+    width: 940px;
+    display: inline-block;
+    margin: 0px 0px 0px -2px;
+}
+.second-row :first-child {
+    float: left;
+    margin: 0px 6px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.second-row :last-child {
+    margin-top: 2px;
+}
