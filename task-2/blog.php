@@ -2,5 +2,5 @@
     $page_title = 'BLOG';
     include('templates/header.php');
 ?>
-    <div>asdsad</div>
+    <h2>Read Our Latest Posts. Learn Something New Maybe!</h2>
 <?php include('templates/footer.php') ?>

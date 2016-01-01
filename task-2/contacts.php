@@ -10,15 +10,15 @@
 <div id="map-canvas" style="height: 300px; width: 900px;"></div>
 <div class="imputs">
   <div>
-    <input type="text" name="First Name" value="First Name" label="First Name">
+    <input type="text" name="First Name" placeholder="First Name" label="First Name">
   </div>
   <div>
-    <input type="text" name="Last Name" value="last name" label="last name">
+    <input type="text" name="Last Name" placeholder="last name" label="last name">
   </div>
   <div>
-    <input type="text" name="Email Address" value="Email Address" label="Email Address">
+    <input type="text" name="Email Address" placeholder="Email Address" label="Email Address">
   </div>
-    <textarea name="textarea" rows="10" cols="50">Message</textarea>
+    <textarea name="textarea" placeholder="Message" rows="10" cols="50"></textarea>
 </div>
 <div class="submit">
   <img src="images/submit arrow.jpg" alt="submit arrow">
