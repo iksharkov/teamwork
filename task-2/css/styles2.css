@@ -16,6 +16,53 @@ footer {
 }
 
 h2 {
+    margin: 40px auto;
     font-size: 30px;
-    font-family: ;
+    font-family: 'Chunkfive';
+    text-align: center;
+}
+
+.list {
+    margin: 40px auto;
+    font-size: 14px;
+    font-family: 'HelveticaNeue Medium';
+}
+
+.box {
+    display: inline-block;
+    float: left;
+    width: 220px;
+    margin-right: 13px;
+    margin-bottom: 20px;
+    border: 1px solid #dbdbdb;
+}
+
+.seccond-roll {
+    float: left;
+}
+
+h3 {
+    font-family: 'HelveticaNeue';
+    font-size: bold;
+}
+
+.date {
+    margin-top: -15px;
+    font-family: 'HelveticaNeue Medium';
+    color: #c8c8c8;
+    font-size: 11px;
+}
+
+.text {
+    margin-top: 4px;
+    padding: 0 20px 0 15px;
+}
+p {
+    font-family: 'HelveticaNeue';
+    font-size: 12px;
+}
+
+.submit {
+    margin: 0 auto 20px 15px;
+    font-family: 'HelveticaNeue Medium'
 }
