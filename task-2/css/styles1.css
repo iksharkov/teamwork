@@ -3,7 +3,7 @@
 }
 .logo h1 {
     font-size:36px;
-    font-family: Chunkfive;
+    font-family: 'Chunkfive';
 }
 .logo h1::after {
   content: ".";
@@ -30,7 +30,7 @@ right:5px;
 float: left;
 /*margin: 5px 0 0 8px;*/
 font: 8pt;
-color: pink;
+color: #000;
 width:201px;
 height: 29px;
 line-height: 18px;
@@ -56,17 +56,8 @@ a {
     outline: 0;
     cursor: pointer;
 }
-.menu ul:hover {
-  font-size: 14px;
-  background-color:white;
-  color: #f26060;
-}
-.menu ul:active {
-  animation: warning 0.0s infinite;
-  border-top-color: #f26060;
-  color:#f26060;
-}
 .menu ul {
+    padding: 0px;
     border-top: 1px solid #ececec;
 }
 .menu a {
@@ -77,10 +68,28 @@ a {
     height: 40px;
     border-top: 1px solid #ececec;
 }
+.menu ul:hover {
+   border-top: 1px solid #f26060;
+  font-size: 14px;
+  background-color:white;
+  color: #f26060;
+}
+.menu ul:active {
+   border-top: 1px solid #f26060;
+  font-size: 14px;
+  background-color:white;
+  color: #f26060;
+}
+.menu a:hover {
+    color:#f26060;
+}
+.menu a:active {
+  color:#f26060;
+}
 .header-about h2 {
-    margin: 40px 0px 0px 120px;
+    text-align: center;
     font-size: 30px;
-    font-family: Chunkfive;
+    font-family: 'Chunkfive';
 }
 .header-about {
     margin: 40px 0px 25px 0px;
@@ -88,14 +97,14 @@ a {
 .header-about p {
     margin-top: 35px;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .pic-paragraph {
     display: inline-block;
     margin-bottom: 30px;
     font-size: 12px;
     font-weight: 18px;
-    font-family: Myriad Pro Regular;
+    font-family: 'Myriad Pro Regular';
 }
 .about-pic-men {
     float: left;
@@ -104,17 +113,17 @@ a {
 .para {
     margin:0px 0px 25px 0px;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .para-1 p {
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .para-1 p::first-letter {
     float: left;
     margin: 0px 10px 25px 0px;
     font-size: 36px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
     color: #f26060;
 }
 .para-2 {
@@ -122,12 +131,12 @@ a {
     margin: 0px 10px 25px 0px;
     font-size: 12px;
     font-style: italic;
-    font-family: HelveticaNeue Light;
+    font-family: 'HelveticaNeue Light';
 }
 .para-2 span {
     font-size: 36px;
     color: #f26060;
-    font-family: HelveticaNeue Light;
+    font-family: 'HelveticaNeue Light';
 }
 .para-3 {
     display: inline-block;
@@ -135,7 +144,7 @@ a {
     height: 60px;
     margin: 0px 0px 25px 0px;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .colum-one {
     float: left;
@@ -152,7 +161,7 @@ a {
     height: 80px;
     margin: 0px 0px 25px 0px;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .colum-1 {
     float: left;
@@ -271,14 +280,14 @@ a {
     margin: 40px 0px 30px 0px;
 }
 .contact-header h2 {
-    margin: 40px 0px 30px 120px;
+    text-align: center;
     font-size: 30px;
-    font-family: Chunkfive;
+    font-family: 'Chunkfive';
 }
 .contact-header p {
     margin-top: 35px;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .maps {
     margin: 30px 0px 35px 0px;
@@ -295,7 +304,7 @@ a {
     background: #fafafa;
     color: #c6c6c6;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 textarea {
     width: 495px;
@@ -307,7 +316,7 @@ textarea {
     background: #fafafa;
     color: #c6c6c6;
     font-size: 12px;
-    font-family: HelveticaNeue Medium;
+    font-family: 'HelveticaNeue Medium';
 }
 .submit  button {
     width: 50px;
@@ -317,7 +326,7 @@ textarea {
     border: 0px;
     color: #000;
     font-size: 18px;
-    font-family: HelveticaNeue;
+    font-family:'HelveticaNeue';
 }
 .slider {
     display: inline-block;
