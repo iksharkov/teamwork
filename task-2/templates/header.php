@@ -32,8 +32,8 @@
      <input type="image" class="searchbutton" name="search" src="images/icon-search-128.png" alt="Search">
      </div>
      <div class="menu">
-         <ul><a href="index.php">HOME</a></ul>
-         <ul><a href="about.php">ABOUT</a></ul>
-         <ul><a href="blog.php">BLOG</a></ul>
-         <ul><a href="contacts.php">CONTACT</a></ul>
+        <a href="index.php">HOME</a>
+        <a href="about.php">ABOUT</a>
+        <a href="blog.php">BLOG</a>
+        <a href="contacts.php">CONTACT</a>
      </div>

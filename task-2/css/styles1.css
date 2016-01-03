@@ -43,45 +43,41 @@ a {
   color: #000000;
   text-decoration: none; /* no underline */
 }
-.menu ul {
+.menu a {
     float: left;
     text-align: center;
     background-color: white;
-    padding: 0px 23px 0px 0px;
-    margin: -1px 23px 0px 0px;
+    margin: -1px 0px 0px 0px;
     line-height: 60px;
     font-size: 14px;
+    font-family: 'HelveticaNeue Medium';
     border: 0px;
-    font-weight: bold;
     outline: 0;
     cursor: pointer;
 }
-.menu ul {
+.menu a {
     padding: 0px;
     border-top: 1px solid #ececec;
 }
 .menu a {
-    padding: 0px 5px 0px 5px;
-    border-right: 1px solid #ececec;
+    padding: 0px 20px 0px 10px;
+    border-right: 1px solid #ececec
 }
 .menu {
     height: 40px;
     border-top: 1px solid #ececec;
 }
-.menu ul:hover {
-   border-top: 1px solid #f26060;
-  font-size: 14px;
-  background-color:white;
-  color: #f26060;
-}
-.menu ul:active {
-   border-top: 1px solid #f26060;
-  font-size: 14px;
-  background-color:white;
-  color: #f26060;
-}
 .menu a:hover {
-    color:#f26060;
+   border-top: 1px solid #f26060;
+  font-size: 14px;
+  background-color:white;
+  color: #f26060;
+}
+.menu a:active {
+   border-top: 1px solid #f26060;
+  font-size: 14px;
+  background-color:white;
+  color: #f26060;
 }
 .menu a:active {
   color:#f26060;
