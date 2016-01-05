@@ -346,3 +346,131 @@ textarea {
 .second-row :last-child {
     margin-top: 2px;
 }
+ul.first-row {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul.first-row li {
+    display: inline-block;
+    height: 74px;
+    margin: 10px 0px 0px 3px;
+    position: relative;
+    width: 307px;
+}
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  opacity: 0.7;
+}
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+  opacity: 0;
+}
+
+ul.first-row li:hover span.text-content {
+  opacity: 1;
+}
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
+ul.third-row {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul.third-row li {
+    display: inline-block;
+    height: 116px;
+    margin: 10px 0px 0px 3px;
+    position: relative;
+    width: 307px;
+}
+span.text-content-3 {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+span.text-content-3 span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  opacity: 0.7;
+}
+span.text-content-3 {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+  opacity: 0;
+}
+
+ul.third-row li:hover span.text-content-3 {
+  opacity: 1;
+}
+span.text-content-3 {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
