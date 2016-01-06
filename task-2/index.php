@@ -50,6 +50,7 @@
         <h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
     </div>
     <p class="kainds"><span>All</span>  / NEWS  /  DESINGN  /  PRINT  / ART  /  DEVELOPMENT</p>
+<?php include('templates/blog.php') ?>
     <div class="buttons-head">
         <button>1</button>
         <button>2</button>

@@ -2,7 +2,9 @@
     $page_title = 'BLOG';
     include('templates/header.php');
 ?>
-    <h2 class="clearfix">Read Our Latest Posts. Learn Something New Maybe!</h2>
+    <div class="h">
+        <h2 class="clearfix">Read Our Latest Posts. Learn Something New Maybe!</h2>
+    </div>
     <p class="list clearfix">All  /  News  /  Design  /  Print  /  Art  /  Development</p>
     <div class="blog clearfix">
         <div class="first-roll clearfix">

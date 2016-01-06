@@ -1,11 +1,11 @@
         <footer class="clearfix">
-            <div class="Social-Media">
+            <div class="Social-Media clearfix">
                 <a href="https://twitter.com/" target="_blank"><img src="icons/twitter.png" alt="twitter"></a>
                 <a href="" class="rrs" target="_blank"><img src="icons/rrs.png" alt="rrs"></a>
                 <a href="https://www.facebook.com/" target="_blank"><img src="icons/facebook.png" alt="pinterest"></a>
                 <a href="https://www.pinterest.com/" target="_blank"><img src="icons/pinterest.png" alt="pinterest"></a>
             </div>
-            <div class="right-position">
+            <div class="right-position cleafix">
                 <p align="right"><b>Best PSD Freebies  |  info@bestpsdfreebies.com</b></p>
                 <p align="right">Copyright 2012 Gridzilla Theme  www.bestpsdfreebies.com</p>
             </div>
