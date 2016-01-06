@@ -570,3 +570,22 @@ span.text-content-2 .cross-2 {
 span.text-content-2 .cross-3 {
     margin: 35px 0px 0px 133px;
 }
+.home-header {
+    font-size: 30px;
+    font-family: 'Chunkfive';
+}
+.kainds {
+    font-size: 14px;
+    font-family: 'HelveticaNeue Medium';
+}
+.kainds span {
+    color: #f14848;
+}
+.buttons-head button {
+    border-radius: 5px;
+    background: #f2f2f2;
+    font-size: 12px;
+    font-weight: 22px;
+    font-family: 'HelveticaNeue Bold';
+    box-shadow: 0.3px #ececec;
+}

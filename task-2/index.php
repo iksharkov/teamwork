@@ -46,4 +46,14 @@
         </li>
      </ul>
     </div>
+    <div class="home-header">
+        <h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
+    </div>
+    <p class="kainds"><span>All</span>  / NEWS  /  DESINGN  /  PRINT  / ART  /  DEVELOPMENT</p>
+    <div class="buttons-head">
+        <button>1</button>
+        <button>2</button>
+        <button>3</button>
+        <button>4</button>
+    </div>
 <?php include('templates/footer.php') ?>
