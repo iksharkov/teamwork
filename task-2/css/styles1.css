@@ -10,34 +10,34 @@
   color: #f26060;
 }
 .search-bar {
-position:relative;
-top: -60px;
-float: right;
-width:201px;
-height: 29px;
-background-color:#fff;
-border:1px solid #ececec;
+  position:relative;
+  top: -60px;
+  float: right;
+  width:201px;
+  height: 29px;
+  background-color:#fff;
+  border:1px solid #ececec;
 }
 .search-bar .searchbutton {
-position:absolute;
-width: 20px;
-height: 20px;
-color: #ececec;
-top:20%;
-right:5px;
+  position:absolute;
+  width: 20px;
+  height: 20px;
+  color: #ececec;
+  top:20%;
+  right:5px;
 }
 .sfield {
-float: left;
+  float: left;
 /*margin: 5px 0 0 8px;*/
-font: 8pt;
-color: #000;
-width:201px;
-height: 29px;
-line-height: 18px;
-padding: 0;
-background: transparent;
-border: 0;
-max-width: 201px
+  font: 8pt;
+  color: #000;
+  width:201px;
+  height: 29px;
+  line-height: 18px;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  max-width: 201px
 }
 a {
   color: #000000;
@@ -60,8 +60,8 @@ a {
     border-top: 1px solid #ececec;
 }
 .menu a {
-    padding: 0px 20px 0px 10px;
-    border-right: 1px solid #ececec
+    padding: 0px 20px 0px 20px;
+    border-right: 1px solid #ececec;
 }
 .menu {
     margin:0px 0px 40px 0px ;
@@ -69,13 +69,13 @@ a {
     border-top: 1px solid #ececec;
 }
 .menu a:hover {
-   border-top: 1px solid #f26060;
+  border-top: 1px solid #f26060;
   font-size: 14px;
   background-color:white;
   color: #f26060;
 }
 .menu a:active {
-   border-top: 1px solid #f26060;
+  border-top: 1px solid #f26060;
   font-size: 14px;
   background-color:white;
   color: #f26060;
@@ -151,7 +151,6 @@ a {
     float: right;
     width: 470px;
 }
-
 .para-4 {
     display:inline-block;
     width: 940px;
@@ -353,7 +352,6 @@ ul.first-row {
     padding: 0;
     text-align: center;
 }
-
 ul.first-row li {
     display: inline-block;
     height: 74px;
@@ -372,7 +370,6 @@ span.text-content {
   top: 0;
   width: 307px;
 }
-
 span.text-content span {
   display: table-cell;
   text-align: center;
@@ -391,7 +388,6 @@ span.text-content {
   width: 307px;
   opacity: 0;
 }
-
 ul.first-row li:hover span.text-content {
   opacity: 1;
 }
@@ -417,7 +413,6 @@ ul.third-row {
     padding: 0;
     text-align: center;
 }
-
 ul.third-row li {
     display: inline-block;
     height: 116px;
@@ -436,7 +431,6 @@ span.text-content-3 {
   top: 0;
   width: 307px;
 }
-
 span.text-content-3 span {
   display: table-cell;
   text-align: center;
@@ -455,7 +449,6 @@ span.text-content-3 {
   width: 307px;
   opacity: 0;
 }
-
 ul.third-row li:hover span.text-content-3 {
   opacity: 1;
 }
@@ -481,7 +474,6 @@ ul.second-row {
     padding: 0;
     text-align: center;
 }
-
 ul.second-row li {
     display: inline-block;
     height: 116px;
@@ -500,7 +492,6 @@ span.text-content-2 {
   top: 0;
   width: 307px;
 }
-
 span.text-content-2 span {
     display: table-cell;
     text-align: center;
@@ -519,7 +510,6 @@ span.text-content-2 {
   width: 307px;
   opacity: 0;
 }
-
 ul.second-row li:hover span.text-content-2 {
   opacity: 1;
 }
