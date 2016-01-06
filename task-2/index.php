@@ -19,16 +19,16 @@
      </ul>
      <ul class="second-row">
         <li>
-            <img src="images/four_pic.jpg" alt="drawings" width="626" height="299">
-            <span class="text-content-2"><span><img src="images/cross_hover.jpg"></span></span>
+            <img src="images/four_pic.jpg" alt="drawings" width="623" height="299">
+            <span  id="fourPic"class="text-content-2"><span class="cross-1"><img src="images/cross_hover.jpg"></span></span>
         </li>
-        <li>
+        <li id="peopleHugs">
             <img src="images/five_pic.jpg" alt="hugs" width="307" height="183">
-            <span class="text-content-2"><span><img src="images/cross_hover.jpg"></span></span>
+            <span  id="hugs"class="text-content-2"><span class="cross-2"><img src="images/cross_hover.jpg"></span></span>
         </li>
-        <li>
+        <li id="responsive">
             <img src="images/six_pic.jpg" alt="responsive" width="307" height="110">
-            <span class="text-content-2"><span><img src="images/cross_hover.jpg"></span></span>
+            <span  id="sixPic" class="text-content-2"><span class="cross-3"><img src="images/cross_hover.jpg"></span></span>
         </li>
      </ul>
      <ul class="third-row">
