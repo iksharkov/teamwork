@@ -22,22 +22,16 @@ h2 {
 }
 
 .list {
-    margin: 40px auto;
+    margin: 20px auto;
     font-size: 14px;
     font-family: 'HelveticaNeue Medium';
 }
 
 .box {
-    display: inline-block;
-    float: left;
     width: 220px;
     margin-right: 13px;
     margin-bottom: 20px;
     border: 1px solid #dbdbdb;
-}
-
-.seccond-roll {
-    float: left;
 }
 
 h3 {
@@ -64,4 +58,8 @@ p {
 .submit {
     margin: 0 auto 20px 15px;
     font-family: 'HelveticaNeue Medium'
+}
+
+.roll {
+    float: left;
 }
