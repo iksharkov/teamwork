@@ -28,7 +28,6 @@
 }
 .sfield {
   float: left;
-/*margin: 5px 0 0 8px;*/
   font: 8pt;
   color: #000;
   width:201px;
@@ -45,15 +44,11 @@ a {
 }
 .menu a {
     float: left;
-    text-align: center;
     background-color: white;
     margin: -1px 0px 0px 0px;
     line-height: 60px;
     font-size: 14px;
     font-family: 'HelveticaNeue Medium';
-    border: 0px;
-    outline: 0;
-    cursor: pointer;
 }
 .menu a {
     padding: 0px;
@@ -162,7 +157,6 @@ a {
 .colum-1 {
     float: left;
     width: 305px;
-    /* padding: 0px; */
     margin: 0px 8px 0px 0px;
 }
 .buttons {
@@ -316,7 +310,6 @@ textarea {
 }
 .submit  button {
     width: 50px;
-    /* height: 30px; */
     margin: 0px 20px 0px 0px;
     background-color: white;
     border: 0px;
@@ -365,9 +358,7 @@ span.text-content {
   cursor: pointer;
   display: table;
   height: 74px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 307px;
 }
 span.text-content span {
@@ -382,11 +373,8 @@ span.text-content {
   cursor: pointer;
   display: table;
   height: 74px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 307px;
-  opacity: 0;
 }
 ul.first-row li:hover span.text-content {
   opacity: 1;
@@ -397,7 +385,6 @@ span.text-content {
   cursor: pointer;
   display: table;
   height: 74px;
-  left: 0;
   position: absolute;
   top: 0;
   width: 307px;
@@ -443,7 +430,6 @@ span.text-content-3 {
   cursor: pointer;
   display: table;
   height: 116px;
-  left: 0;
   position: absolute;
   top: 0;
   width: 307px;
@@ -458,9 +444,7 @@ span.text-content-3 {
   cursor: pointer;
   display: table;
   height: 116px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 307px;
   opacity: 0;
   -webkit-transition: opacity 500ms;
@@ -487,7 +471,6 @@ span.text-content-2 {
   cursor: pointer;
   display: table;
   height: 116px;
-  left: 0;
   position: absolute;
   top: 0;
   width: 307px;
@@ -504,7 +487,6 @@ span.text-content-2 {
   cursor: pointer;
   display: table;
   height: 116px;
-  left: 0;
   position: absolute;
   top: 0;
   width: 307px;
@@ -519,9 +501,7 @@ span.text-content-2 {
   cursor: pointer;
   display: table;
   height: 116px;
-  left: 0;
   position: absolute;
-  top: 0;
   width: 307px;
   opacity: 0;
   -webkit-transition: opacity 500ms;
