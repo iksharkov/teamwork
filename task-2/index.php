@@ -3,48 +3,63 @@
 	include('templates/header.php');
 ?>
     <div class="slider">
-     <ul class="first-row">
-        <li>
-            <img src="images/first_pic.jpg" alt="postcard">
-            <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li>
-            <img src="images/second_pic.jpg" alt="drawings" width="307" height="74">
-            <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li>
-            <img src="images/third_pic.jpg" alt="words">
-            <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-     </ul>
-     <ul class="second-row">
-        <li>
-            <img src="images/four_pic.jpg" alt="drawings" width="623" height="299">
-            <span  id="fourPic"class="text-content-2"><span class="cross-1"><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li id="peopleHugs">
-            <img src="images/five_pic.jpg" alt="hugs" width="307" height="183">
-            <span  id="hugs"class="text-content-2"><span class="cross-2"><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li id="responsive">
-            <img src="images/six_pic.jpg" alt="responsive" width="307" height="110">
-            <span  id="sixPic" class="text-content-2"><span class="cross-3"><img src="images/cross_hover.jpg"></span></span>
-        </li>
-     </ul>
-     <ul class="third-row">
-        <li>
-            <img src="images/seven_pic.jpg" alt="lates news">
-            <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li>
-            <img src="images/eight_pic.jpg" alt="words" width="307" height="116">
-            <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-        <li>
-            <img src="images/nine_pic.jpg" alt="drawings">
-            <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
-        </li>
-     </ul>
+        <ul class="first-row">
+            <li>
+                <img src="images/first_pic.jpg" alt="postcard">
+                <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li>
+                <img src="images/second_pic.jpg" alt="drawings" width="307" height="74">
+                <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li>
+                <img src="images/third_pic.jpg" alt="words">
+                <span class="text-content"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+        </ul>
+        <ul class="second-row">
+            <li>
+                <div class="read-box">
+                    <h2>Top iPhone Apps</h2>
+                    <p class="read-inside">Lorem ipsum dolor sit amet, ne utinam discere blandit vim, at iusto facilisis mel. Cetero audire sea an, has ex quem prima omnium.</p>
+                    <a href="#IphoneApps"><button class="more"><b>>></b> More</button></a>
+                </div>
+                <img src="images/four_pic.jpg" alt="drawings" width="623" height="299">
+                <span  id="fourPic"class="text-content-2"><span class="cross-1"><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li id="peopleHugs">
+                <img src="images/five_pic.jpg" alt="hugs" width="307" height="183">
+                <span  id="hugs"class="text-content-2"><span class="cross-2"><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li id="responsive">
+                <img src="images/six_pic.jpg" alt="responsive" width="307" height="110">
+                <span  id="sixPic" class="text-content-2"><span class="cross-3"><img src="images/cross_hover.jpg"></span></span>
+            </li>
+        </ul>
+        <ul class="third-row">
+            <li>
+                <img src="images/seven_pic.jpg" alt="lates news">
+                <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li>
+                <img src="images/eight_pic.jpg" alt="words" width="307" height="116">
+                <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+            <li>
+                <img src="images/nine_pic.jpg" alt="drawings">
+                <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
+            </li>
+        </ul><!--
+        <div class"previous">
+            <span class="previous-img"><img src="images/previous.jpg" alt="previous"></span>
+            <span class="previous-hook"><img src="images/previous_hook.jpg" alt="previous_hook"></span>
+        </div> -->
+        <a href="#" class="previous arrow"></a>
+        <a href="#" class="next arrow"></a>
+        <!-- <div class="next">
+            <div class="next-img"><img src="images/next.jpg" alt="next"></div>
+            <div class="next-hook"><img src="images/next_hook.jpg" alt="next_hook"></div>
+        </div> -->
     </div>
     <div class="home-header">
         <h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
