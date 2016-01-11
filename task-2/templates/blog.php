@@ -20,7 +20,7 @@
             <div class="image-sticker">
                 <img src="images/Big_Buck.jpg" alt="Big_Buck">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <div class="cross"><img src="images/cross_hover.jpg" alt=""></div>
                 </div>
             </div>
             <div class="text">
