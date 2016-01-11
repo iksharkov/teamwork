@@ -156,10 +156,11 @@ p {
 
 .read-box {
     position: absolute;
-    top: 353px;
+    top: 86px;
     left: 313px;
     width: 294px;
     height: 196px;
+    padding: 30px;
     opacity: 0.7;
     color: white;
     background-color: black;
