@@ -25,7 +25,7 @@
                     <a href="#IphoneApps"><button class="more"><b>>></b> More</button></a>
                 </div>
                 <img src="images/four_pic.jpg" alt="drawings" width="623" height="299">
-                <span  id="fourPic"class="text-content-2"><span class="cross-1"><img src="images/cross_hover.jpg"></span></span>
+                <span  id="fourPic"><span class="cross-1"><img src="images/cross_hover.jpg"></span></span>
             </li>
             <li id="peopleHugs">
                 <img src="images/five_pic.jpg" alt="hugs" width="307" height="183">
