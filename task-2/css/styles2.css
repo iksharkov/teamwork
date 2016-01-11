@@ -89,6 +89,11 @@ p {
     -moz-transition: opacity 0.5s;
 }
 
+.cross {
+    position: absolute;
+    background-image: url("../images/cross_hover.jpg");
+}
+
 .image-sticker:hover .overlay {
     opacity: 1;
 }
@@ -97,25 +102,7 @@ p {
     top: 361px;
     left: -12px;
     opacity: 0.9;
-}/*
-
-.previous-hook {
-    position: absolute;
-    top: 431px;
-    left: -11px;
 }
-
-.next-img {
-    position: absolute;
-    top: 361px;
-    right: -11px;
-}
-
-.next-hook {
-    position: absolute;
-    top: 431px;
-    right: -11px;
-}*/
 
 .arrow {
     position: absolute;

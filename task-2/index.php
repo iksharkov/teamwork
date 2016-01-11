@@ -49,17 +49,9 @@
                 <img src="images/nine_pic.jpg" alt="drawings">
                 <span class="text-content-3"><span><img src="images/cross_hover.jpg"></span></span>
             </li>
-        </ul><!--
-        <div class"previous">
-            <span class="previous-img"><img src="images/previous.jpg" alt="previous"></span>
-            <span class="previous-hook"><img src="images/previous_hook.jpg" alt="previous_hook"></span>
-        </div> -->
+        </ul>
         <a href="#" class="previous arrow"></a>
         <a href="#" class="next arrow"></a>
-        <!-- <div class="next">
-            <div class="next-img"><img src="images/next.jpg" alt="next"></div>
-            <div class="next-hook"><img src="images/next_hook.jpg" alt="next_hook"></div>
-        </div> -->
     </div>
     <div class="home-header">
         <h2>A Theme Unlike Any Other. Simply Fantastic!</h2>
