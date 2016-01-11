@@ -91,7 +91,12 @@ p {
 
 .cross {
     position: absolute;
-    background-image: url("../images/cross_hover.jpg");
+    width: 37px;
+    height: 37px;
+    top: 45%;
+    left: 43%;
+    content: "";
+    background-image: url("../images/cross_hover.jpg")
 }
 
 .image-sticker:hover .overlay {
@@ -163,4 +168,10 @@ p {
     font-family: 'HelveticaNeue Medium';
     background-color: black;
     border: 0;
+}
+
+h4 {
+    font-size: 24px;
+    font-family: 'Chunkfive';
+    text-align: center;
 }

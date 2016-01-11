@@ -4,6 +4,7 @@
             <div class="image-sticker">
                 <img src="images/Sticker_Mule.jpg" alt="Sticker_Mule">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -20,7 +21,7 @@
             <div class="image-sticker">
                 <img src="images/Big_Buck.jpg" alt="Big_Buck">
                 <div class="overlay">
-                    <div class="cross"><img src="images/cross_hover.jpg" alt=""></div>
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -37,6 +38,7 @@
             <div class="image-sticker">
                 <img src="images/Pinterest_Icons.jpg" alt="Pinterest_Icons">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -55,6 +57,7 @@
             <div class="image-sticker">
                 <img src="images/Amazing_websites.jpg" alt="Amazing_websites">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -71,6 +74,7 @@
             <div class="image-sticker">
                 <img src="images/Character_design.jpg" alt="Character_design">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -87,6 +91,7 @@
             <div class="image-sticker">
                 <img src="images/Ipad_3.jpg" alt="Ipad_3">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -105,6 +110,7 @@
             <div class="image-sticker">
                 <img src="images/Iphone_apps.jpg" alt="Iphone_apps">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -121,6 +127,7 @@
             <div class="image-sticker">
                 <img src="images/Service_icons.jpg" alt="Service_icons">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -137,6 +144,7 @@
             <div class="image-sticker">
                 <img src="images/Social_Media_Buttons.jpg" alt="Social_Media_Buttons">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -155,6 +163,7 @@
             <div class="image-sticker">
                 <img src="images/Photo_Shoot.jpg" alt="Photo_Shoot">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -171,6 +180,7 @@
             <div class="image-sticker">
                 <img src="images/Wedding_Card.jpg" alt="Wedding_Card">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
@@ -187,6 +197,7 @@
             <div class="image-sticker">
                 <img src="images/Silver_Ul_Kit.jpg" alt="Silver_Ul_Kit">
                 <div class="overlay">
+                    <div class="cross"></div>
                 </div>
             </div>
             <div class="text">
