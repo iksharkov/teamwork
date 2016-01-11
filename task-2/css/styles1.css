@@ -38,7 +38,7 @@
   border: 0;
   max-width: 201px
 }
-a {
+ .menu a {
   color: #000000;
   text-decoration: none; /* no underline */
 }
@@ -352,29 +352,11 @@ ul.first-row li {
     position: relative;
     width: 307px;
 }
-span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 74px;
-  position: absolute;
-  width: 307px;
-}
 span.text-content span {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
   opacity: 0.7;
-}
-span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 74px;
-  position: absolute;
-  width: 307px;
 }
 ul.first-row li:hover span.text-content {
   opacity: 1;
@@ -406,17 +388,6 @@ ul.third-row li {
     margin: 10px 0px 0px 3px;
     position: relative;
     width: 307px;
-}
-span.text-content-3 {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 116px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 307px;
 }
 span.text-content-3 span {
   display: table-cell;
@@ -454,26 +425,16 @@ span.text-content-3 {
 }
 ul.second-row {
     list-style-type: none;
-    margin: 0px 0px 0px -2px;
+    margin: 0px 0px 0px -3px;
     padding: 0;
     text-align: center;
 }
 ul.second-row li {
     display: inline-block;
     height: 116px;
-    margin: 0px 1px 0px 0px;
+    margin: 0px 0px 0px 0px;
     position: relative;
     width: 307px;
-}
-span.text-content-2 {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 116px;
-  position: absolute;
-  top: 0;
-  width: 307px;
 }
 span.text-content-2 span {
     display: table-cell;
@@ -518,7 +479,7 @@ span.text-content-2 {
     margin: 69px 0px 0px 631px;
 }
 #fourPic {
-    width: 624px;
+    width: 623px;
     height: 299px;
     margin: 0px 0px 0px 2px;
 }
