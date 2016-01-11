@@ -1,8 +1,11 @@
 <div class="blog clearfix">
     <div class="first roll clearfix">
         <div class="box">
-            <div class="imagee">
+            <div class="image-sticker">
                 <img src="images/Sticker_Mule.jpg" alt="Sticker_Mule">
+                <div class="overlay">
+                    gfdgfd
+                </div>
             </div>
             <div class="text">
                 <h3>Sticker Mule</h3>
@@ -15,8 +18,11 @@
             </div>
         </div>
         <div class="box">
-            <div class="imagee">
+            <div class="image-sticker">
                 <img src="images/Big_Buck.jpg" alt="Big_Buck">
+                <div class="overlay">
+                    <span>fdsfd</span>
+                </div>
             </div>
             <div class="text">
                 <h3>Big Buck Bunny</h3>
@@ -88,7 +94,7 @@
         </div>
     </div>
     <div class="third roll">
-        <div class="box">
+        <div class="box" id="IphoneApps">
             <div class="imagee">
                 <img src="images/Iphone_apps.jpg" alt="Iphone_apps">
             </div>
