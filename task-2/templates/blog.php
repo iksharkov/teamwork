@@ -1,7 +1,7 @@
 <div class="blog clearfix">
     <div class="first roll clearfix">
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Sticker_Mule.jpg" alt="Sticker_Mule">
                 <div class="overlay">
                     <a class="cross" href="blog-page1.php"></a>
@@ -13,12 +13,11 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Big_Buck.jpg" alt="Big_Buck">
                 <div class="overlay">
                     <a class="cross" href="blog-page2.php"></a>
@@ -30,15 +29,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Pinterest_Icons.jpg" alt="Pinterest_Icons">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -47,17 +45,16 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
     </div>
     <div class="second roll">
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Amazing_websites.jpg" alt="Amazing_websites">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -66,15 +63,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Character_design.jpg" alt="Character_design">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -83,15 +79,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Ipad_3.jpg" alt="Ipad_3">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -100,17 +95,16 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
     </div>
     <div class="third roll">
         <div class="box" id="IphoneApps">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Iphone_apps.jpg" alt="Iphone_apps">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -119,15 +113,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Service_icons.jpg" alt="Service_icons">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -136,15 +129,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Social_Media_Buttons.jpg" alt="Social_Media_Buttons">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -153,17 +145,16 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
     </div>
     <div class="four roll">
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Photo_Shoot.jpg" alt="Photo_Shoot">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -172,15 +163,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Wedding_Card.jpg" alt="Wedding_Card">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -189,15 +179,14 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
         <div class="box">
-            <div class="image-sticker">
+            <div class="image-hover">
                 <img src="images/Silver_Ul_Kit.jpg" alt="Silver_Ul_Kit">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="#"></a>
                 </div>
             </div>
             <div class="text">
@@ -206,8 +195,7 @@
                 <p>Lorem ipsum dolor sit amet, te possim inimicus ius. Alii ullam at corper pri ad, per nulla luptatum te, in qui delenit nostrum. Nam ad labores.</p>
             </div>
             <div class="submit">
-                <img src="images/submit_arrow.jpg" alt="submitarrow">
-                <button>More</button>
+              <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">More</a>
             </div>
         </div>
     </div>

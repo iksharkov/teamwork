@@ -1,5 +1,6 @@
 footer {
-    margin: 25px auto;
+    height: 60px;
+    margin: 25px 0;
     border-top: 1px solid #ececec;
 }
 
@@ -46,6 +47,7 @@ h3 {
 
 .date {
     margin-top: -15px;
+    margin-bottom: 15px;
     font-family: 'HelveticaNeue Medium';
     color: #c8c8c8;
     font-size: 11px;
@@ -69,14 +71,14 @@ p {
     float: left;
 }
 
-.image-sticker {
+.image-hover {
     position: relative;
 }
-.image-sticker > img {
+.image-hover > img {
     width: 100%;
     height: auto;
 }
-.image-sticker .overlay {
+.image-hover .overlay {
     opacity: 0;
     position: absolute;
     top: 0;
@@ -99,7 +101,7 @@ p {
     background-image: url("../images/cross_hover.jpg")
 }
 
-.image-sticker:hover .overlay {
+.image-hover:hover .overlay {
     opacity: 1;
 }
 .previous-img {
@@ -152,4 +154,30 @@ p {
     font-family: 'HelveticaNeue Medium';
     background-color: black;
     border: 0;
+}
+
+.left-side {
+    float: left;
+    width: 540px;
+    margin-right: 40px;
+}
+
+.big-image {
+    width: 530px;
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+.right-side {
+    float: right;
+    width: 360px;
+}
+
+.rRr {
+    float: left;
+    margin-right: 20px;
+}
+
+.more-themes:last-child {
+    margin-right: 0;
 }
