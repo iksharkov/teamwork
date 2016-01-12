@@ -40,7 +40,8 @@
 }
  .menu a {
   color: #000000;
-  text-decoration: none; /* no underline */
+  text-decoration: none;
+   /*no underline */
 }
 .menu a {
     float: left;
@@ -520,4 +521,79 @@ span.text-content-2 .cross-3 {
     font-weight: 22px;
     font-family: 'HelveticaNeue Bold';
     box-shadow: 0.3px #ececec;
+}
+.read-box {
+    position: absolute;
+    top: 358px;
+    left: 315px;
+    width: 294px;
+    height: 196px;
+    /*padding: 30px;*/
+    opacity: 0.7;
+    color: white;
+    background-color: black;
+    text-align: left;
+}
+h4 {
+    margin: 20px 25px;
+    font-size: 24px;
+    font-family: 'Chunkfive';
+}
+.read-box p  a {
+    font-family: 'HelveticaNeue';
+    font-size: 12px;
+    margin: 20px 25px;
+}
+.read-box a {
+  color: #ffffff;
+  text-decoration: none;
+   /*no underline */
+}
+.slogan-blog {
+  display: inline-block;
+}
+.blog-box {
+  margin-right:20px;
+  float: left;
+  border: 1px solid #ccc;
+}
+.slogan-blog :last-child {
+  margin-right: -20px;
+}
+.blog-box p {
+  padding: 5px;
+  font-size: 18px;
+  font-family: 'HelveticaNeue';
+  font-style: bold;
+}
+.blog-box > date {
+  padding: 5px;
+  font-size: 11px;
+  font-family:'HelveticaNeue Medium';
+}
+.slogan-blog h3 {
+  text-align: center;
+  font-family:'Chunkfive';
+  font-size: 30px;
+}
+.blog-box img {
+  height: 184px;
+}
+.blog-page-pic img {
+  width: 540px;
+  height: 400px;
+}
+.blog-page-pic {
+    display: inline-block;
+    float: left;
+    width: 400px;
+    height: 808px;
+    margin-right: 177px;
+}
+.stats {
+    display: inline-block;
+    width: 80px;
+    height: 40px;
+    font-size: 12px;
+    margin: 0px 0px 10px 0px;
 }

@@ -4,7 +4,7 @@
             <div class="image-sticker">
                 <img src="images/Sticker_Mule.jpg" alt="Sticker_Mule">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="blog-page1.php"></a>
                 </div>
             </div>
             <div class="text">

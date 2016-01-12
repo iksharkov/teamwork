@@ -146,18 +146,6 @@ p {
     background-image: url("../images/next_hook.jpg")
 }
 
-.read-box {
-    position: absolute;
-    top: 86px;
-    left: 313px;
-    width: 294px;
-    height: 196px;
-    padding: 30px;
-    opacity: 0.7;
-    color: white;
-    background-color: black;
-}
-
 .read-inside {
     margin: 20px 25px;
 }
@@ -168,10 +156,4 @@ p {
     font-family: 'HelveticaNeue Medium';
     background-color: black;
     border: 0;
-}
-
-h4 {
-    font-size: 25px;
-    font-family: 'Chunkfive';
-    text-align: center;
 }
