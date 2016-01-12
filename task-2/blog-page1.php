@@ -9,18 +9,9 @@
         <img src="images/blog_page_pic2.jpg" alt="picture2">
     </div>
     <div class="stats">
-        <div class="dates">
-            Date April
-            15,2012
-        </div>
-        <div class="tags">
-            Tags
-            Website Design
-        </div>
-        <div class="author">
-            Author
-            Michael Reimer
-        </div>
+        <div class="stats-1"><span>Date</span> April 15,2012</div>
+        <div class="stats-1"><span>Tags</span> Website Design</div>
+        <div class="stats-1"><span>Author</span> Michael Reimer</div>
     </div>
     <div class="text-blog">
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam quas minima
@@ -35,9 +26,9 @@
            fugit fugiat consectetur dignissimos perspiciatis architecto commodi saepe, aut quibusdam
            voluptatem itaque cupiditate perferendis cumque reprehenderit ad dolorem.</p>
     </div>
-        <div>
-            <a class="Visit Website" href=""><b>>></b>Visit Website</a>
-        </div>
+    <div class="visit-website">
+        <a href="index.php"><img src="images/submit_arrow.jpg" alt="arrows">Visit Website</a>
+    </div>
     </div>
     <div class="slogan-blog">
         <h3>Similar Posts. Check Them Out!</h3>
