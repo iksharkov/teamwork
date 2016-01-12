@@ -21,7 +21,7 @@
             <div class="image-sticker">
                 <img src="images/Big_Buck.jpg" alt="Big_Buck">
                 <div class="overlay">
-                    <div class="cross"></div>
+                    <a class="cross" href="blog-page2.php"></a>
                 </div>
             </div>
             <div class="text">
