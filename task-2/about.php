@@ -30,15 +30,15 @@
     epe odit autem, sint ipsum quos provident nemo iusto, ipsa amet faci
     lis quam, quibusdam placeat deleniti, adipisci quas tempora consequatur quae.</p>
 </div>
-<div class="para-1 p::first-letter">
-    <p>D ipsum dolor sit amet, consectetur adipisicing elit. Explr adipisicing elit. Voluptate voluptates
+<div class="para-1">
+    <p><span>D</span> ipsum dolor sit amet, consectetur adipisicing elit. Explr adipisicing elit. Voluptate voluptates
     quas est corporis deserunt inventore, cupiditate quod. Debitis unde maiores eos animi, dolore eligendi solut
     a dolor, veritatis nisi vero excepturi.possimus sunt est magni neque porrdus temporibus eveniet tempora rem
     reiciendis fuga aut eius ea vel,cupiditate quod. Debitis unde maiores eos animi, dolore eligendi solut
     a dolor, veritatis nisi vero excepturi.possimus sunt est magni neque porrdu</p>
 </div>
 <div class="para-2" >
-<blockqoute> <span>"</span> " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero laboriosam sit ex. Volupta
+<blockqoute><span>"</span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio vero laboriosam sit ex. Volupta
     tes facilis reiciendis, dolorum, vel quisquam saepe tenetur. Aspernatur impedit saepe eum soluta distinctio,
     iquam culpa?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit distinctio magnam minus vitae
     fugit rem! Mollitia, ad sint, nulla cumque illo esse repellendus at facere.</blockquote>
@@ -76,13 +76,13 @@
     </div>
 </div>
 <div class="buttons">
-    <button class="green">buttom text</button>
-    <button class="silver">buttom text</button>
-    <button class="blue">buttom text</button>
-    <button class="orange">buttom text</button>
-    <button class="purple">buttom text</button>
-    <button class="red">buttom text</button>
-    <button class="baby-blue">buttom text</button>
+    <button class="green">Buttom text</button>
+    <button class="silver">Buttom text</button>
+    <button class="blue">Buttom text</button>
+    <button class="orange">Buttom text</button>
+    <button class="purple">Buttom text</button>
+    <button class="red">Buttom text</button>
+    <button class="baby-blue">Buttom text</button>
 </div>
 <div class="alert">
     <div class="green-alert">Alert Text</div>

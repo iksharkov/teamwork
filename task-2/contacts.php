@@ -21,7 +21,6 @@
     <textarea name="textarea" placeholder="Message" rows="10" cols="50"></textarea>
 </div>
 <div class="submit">
-  <img src="images/submit_arrow.jpg" alt="submit arrow">
-  <button>submit</button>
+  <a href="#"><img src="images/submit_arrow.jpg" alt="arrows">Submit</a>
 </div>
 <?php include('templates/footer.php') ?>
