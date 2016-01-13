@@ -7,11 +7,11 @@
     <div class="hchi">
         <h2>Sticker Mule. Best Place For Your Sticker Needs!</h2>
     </div>
-    <div class="left-side clearfix">
+    <div class="left-side">
         <div class="big-image clearfix">
             <img src="images/Iphone.jpg" alt="bmw">
         </div>
-        <div class="big-image clearfix">
+        <div class="big-image">
             <img src="images/iphoneapp.jpg" alt="e30">
         </div>
     </div>

@@ -85,6 +85,7 @@ p {
     bottom: 4px;
     left: 0;
     right: 0;
+    width: 219px;
     background: rgba(0, 0, 0, 0.75);
     transition: opacity 0.5s;
     -webkit-transition: opacity 0.5s;
