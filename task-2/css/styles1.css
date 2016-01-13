@@ -19,12 +19,15 @@
   border:1px solid #ececec;
 }
 .search-bar .searchbutton {
-  position:absolute;
-  width: 20px;
-  height: 20px;
-  color: #ececec;
-  top:20%;
-  right:5px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    color: #ececec;
+    top: 20%;
+    right: 5px;
+    border: 0px;
+    background-color: #fff;
+    background-image: url(images/icon_search.png);
 }
 .sfield {
   float: left;
@@ -50,6 +53,7 @@
     line-height: 60px;
     font-size: 14px;
     font-family: 'HelveticaNeue Medium';
+    border-right: 1px solid #ececec;
 }
 .menu a {
     padding: 0px;
@@ -90,18 +94,23 @@
 .header-about p {
     margin-top: 35px;
     font-size: 12px;
+    line-height: 16px;
     font-family: 'HelveticaNeue Medium';
 }
-.pic-paragraph {
+.pic-paragraph p {
     display: inline-block;
+    float: left;
     margin-bottom: 30px;
     font-size: 12px;
     line-height: 18px;
-    font-family: 'Myriad Pro Regular';
+    font-family: 'HelveticaNeue Medium';
 }
-.about-pic-men {
+.pic-paragraph img {
+    display: block;
     float: left;
-    margin: 0px 40px 0px 0px;
+}
+.pic-paragraph div {
+  float: left;
 }
 .para {
     line-height: 18px;
@@ -587,7 +596,7 @@ h4 {
   font-family: 'HelveticaNeue';
   font-style: bold;
 }
-.blog-box > date {
+.blog-box > .date {
   padding: 5px;
   font-size: 11px;
   font-family:'HelveticaNeue Medium';

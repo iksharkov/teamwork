@@ -29,9 +29,8 @@
     <div class="visit-website">
         <a href="index.php"><img src="images/submit_arrow.jpg" alt="arrows">Visit Website</a>
     </div>
-    </div>
     <div class="slogan-blog">
-        <h3>Similar Posts. Check Them Out!</h3>
+        <h2>Similar Posts. Check Them Out!</h2>
         <div class="blog-box">
             <img src="images/blog_item_page1.jpg" alt="blog_item_page1">
             <p>Character Design</p>

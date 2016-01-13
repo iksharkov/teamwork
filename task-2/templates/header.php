@@ -28,8 +28,8 @@
          <h1>Gridzilla</h1>
      </div>
      <div class="search-bar">
-     <input type="text" class="sfield" name="searchterm" maxlength="30" placeholder="Enter your search ...">
-     <input type="image" class="searchbutton" name="search" src="images/icon-search-128.png" alt="Search">
+        <input type="text" class="sfield" name="searchterm" maxlength="30" placeholder="Enter your search ...">
+        <input type="submit" class="searchbutton" name="search" src="" alt="Search">
      </div>
      <div class="menu">
         <a href="index.php">HOME</a>
