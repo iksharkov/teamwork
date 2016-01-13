@@ -37,7 +37,7 @@ h2 {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-.four.roll .box {
+.four.column .box {
     margin-right: 0;
 }
 h3 {
@@ -67,7 +67,7 @@ p {
     font-family: 'HelveticaNeue Medium'
 }
 
-.roll {
+.column {
     float: left;
 }
 

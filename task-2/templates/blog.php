@@ -1,5 +1,5 @@
 <div class="blog clearfix">
-    <div class="first roll clearfix">
+    <div class="first column clearfix">
         <div class="box">
             <div class="image-hover">
                 <img src="images/Sticker_Mule.jpg" alt="Sticker_Mule">
@@ -49,7 +49,7 @@
             </div>
         </div>
     </div>
-    <div class="second roll">
+    <div class="second column">
         <div class="box">
             <div class="image-hover">
                 <img src="images/Amazing_websites.jpg" alt="Amazing_websites">
@@ -99,12 +99,12 @@
             </div>
         </div>
     </div>
-    <div class="third roll">
+    <div class="third column">
         <div class="box" id="IphoneApps">
             <div class="image-hover">
                 <img src="images/Iphone_apps.jpg" alt="Iphone_apps">
                 <div class="overlay">
-                    <a class="cross" href="#"></a>
+                    <a class="cross" href="blog-page4.php"></a>
                 </div>
             </div>
             <div class="text">
@@ -149,12 +149,12 @@
             </div>
         </div>
     </div>
-    <div class="four roll">
+    <div class="four column">
         <div class="box">
             <div class="image-hover">
                 <img src="images/Photo_Shoot.jpg" alt="Photo_Shoot">
                 <div class="overlay">
-                    <a class="cross" href="#"></a>
+                    <a class="cross" href="blog-page3.php"></a>
                 </div>
             </div>
             <div class="text">

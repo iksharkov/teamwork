@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'blog-page3';
+    $page_title = 'blog-page4';
     include('templates/header.php');
 ?>
 
@@ -9,10 +9,10 @@
     </div>
     <div class="left-side clearfix">
         <div class="big-image clearfix">
-            <img src="images/bmw_image.jpg" alt="bmw">
+            <img src="images/Iphone.jpg" alt="bmw">
         </div>
         <div class="big-image clearfix">
-            <img src="images/e30.jpg" alt="e30">
+            <img src="images/iphoneapp.jpg" alt="e30">
         </div>
     </div>
     <div class="stats">
