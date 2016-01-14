@@ -21,7 +21,7 @@
   </div>
     <textarea name="textarea" placeholder="Message" rows="10" cols="50"></textarea>
 </div>
-<div class="submit">
+<div class="submit-c">
   <img src="images/submit_arrow.jpg" alt="arrows">
   <input type="submit" value="Submit"/>
 </div>
