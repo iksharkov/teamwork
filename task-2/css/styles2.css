@@ -145,7 +145,7 @@ p {
 }
 
 .next:before {
-    right: 0;
+    right: 1px;
     background-image: url("../images/next_hook.jpg")
 }
 

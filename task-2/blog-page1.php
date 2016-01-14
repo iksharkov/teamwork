@@ -33,24 +33,44 @@
         <div class="slogan-blog">
             <h2>Similar Posts. Check Them Out!</h2>
             <div class="blog-box">
-                <img src="images/blog_item_page1.jpg" alt="blog_item_page1">
-                <p>Character Design</p>
-                <date>June 15, 2012</date>
+                <div class="image-hover">
+                    <img src="images/blog_item_page1.jpg" alt="blog_item_page1">
+                    <div class="overlay-b">
+                        <a class="cross-b" href="blog.php"></a>
+                    </div>
+                </div>
+                    <p>Character Design</p>
+                    <date>June 15, 2012</date>
             </div>
             <div class="blog-box">
-                <img src="images/blog_item_page2.jpg" alt="blog_item_page2">
-                <p>Top iPhone Apps</p>
-                <date>June 15, 2012</date>
+                <div class="image-hover">
+                    <img src="images/blog_item_page2.jpg" alt="blog_item_page2">
+                    <div class="overlay-b">
+                        <a class="cross-b" href="blog.php"></a>
+                    </div>
+                </div>
+                    <p>Top iPhone Apps</p>
+                    <date>June 15, 2012</date>
             </div>
             <div class="blog-box">
-                <img src="images/blog_item_page3.jpg" alt="blog_item_page3">
-                <p>Social Media Buttons</p>
-                <date>June 15, 2012</date>
+                <div class="image-hover">
+                    <img src="images/blog_item_page3.jpg" alt="blog_item_page3">
+                    <div class="overlay-b">
+                        <a class="cross-b" href="blog.php"></a>
+                    </div>
+                </div>
+                    <p>Social Media Buttons</p>
+                    <date>June 15, 2012</date>
             </div>
             <div class="blog-box">
-                <img src="images/blog_item_page4.jpg" alt="blog_item_page4.jpg">
-                <p>10 Amazing Websites</p>
-                <date>June 15, 2012</date>
+                <div class="image-hover">
+                    <img src="images/blog_item_page4.jpg" alt="blog_item_page4.jpg">
+                    <div class="overlay-b">
+                       <a class="cross-b" href="blog.php"></a>
+                    </div>
+                </div>
+                    <p>10 Amazing Websites</p>
+                    <date>June 15, 2012</date>
             </div>
         </div>
     </div>
