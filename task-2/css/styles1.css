@@ -11,15 +11,16 @@
   color: #f26060;
 }
 .search-bar {
-  position:relative;
-  top: -60px;
-  float: right;
-  width:201px;
-  height: 29px;
-  background-color:#fff;
-  border:1px solid #ececec;
+    position: relative;
+    top: -60px;
+    float: right;
+    width: 201px;
+    height: 33px;
+    padding: 0px 0px 0px 5px;
+    background-color: #fff;
+    border: 1px solid #ececec;
 }
-.search-bar .searchbutton {
+.search-bar .search-i {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -28,21 +29,18 @@
     right: 5px;
     border: 0px;
     background-color: transparent;
-    /*background:url(../images/icon_search.png) no-repeat;*/
+    background:url(../images/icon_search.png) no-repeat;
 }
-.sfield {
-    display: block;
-    float: left;
-    font: 12px;
+.search-bar .search-t {
     width: 201px;
     height: 33px;
-    padding: 0px 0px 0px 10px;
-    margin: -3px 0px 0px 0px;
-    border: 0;
-    background: transparent;
+    padding: 0px 0px 0px 0px;
+    border: 0px;
     font-size: 12px;
     font-family: 'HelveticaNeue';
-    color: #000;
+}
+.search-t:focus {
+    outline: none;
 }
  .menu a {
   color: #000000;
@@ -651,17 +649,21 @@ h4 {
     -webkit-transition: opacity 0.5s;
     -moz-transition: opacity 0.5s;
 }
-
 .cross-b {
     position: absolute;
     width: 28px;
     height: 37px;
+    padding:0px 0px 0px 10px;
     top: 45%;
     left: 43%;
     content: "";
-    background-image: url("../images/cross_hover.jpg")
+    background-image: url("../images/cross_hover.jpg");
 }
-
+.overlay-b .social-hover  span {
+    padding: 0px 0px 0px 24px;
+    background: transparent;
+    background-image: url("../images/views.jpg");
+}
 .image-hover:hover .overlay-b {
     opacity: 1;
 }

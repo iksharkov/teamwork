@@ -28,8 +28,10 @@
          <h1>Gridzilla</h1>
      </div>
      <div class="search-bar">
-        <input type="text" class="sfield" name="searchterm" maxlength="30" placeholder="Enter your search ...">
-        <input type="submit"  class="searchbutton" name="search" src="" alt="Search">
+        <form action="www.google.com">
+        <input class="search-t" type="text" name="Enter your search..." placeholder="Enter your search..." label="Enter your search...">
+        <input class="search-i" type="submit" value="">
+        </form>
      </div>
      <div class="menu">
         <a href="index.php">HOME</a>

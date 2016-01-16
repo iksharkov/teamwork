@@ -47,6 +47,9 @@
                     <img src="images/blog_item_page2.jpg" alt="blog_item_page2">
                     <div class="overlay-b">
                         <a class="cross-b" href="blog.php"></a>
+                        <div class="social-hover">
+                            <span></span>
+                        </div>
                     </div>
                 </div>
                     <p>Top iPhone Apps</p>
