@@ -659,11 +659,6 @@ h4 {
     content: "";
     background-image: url("../images/cross_hover.jpg");
 }
-.overlay-b .social-hover  span {
-    padding: 0px 0px 0px 24px;
-    background: transparent;
-    background-image: url("../images/views.jpg");
-}
 .image-hover:hover .overlay-b {
     opacity: 1;
 }
